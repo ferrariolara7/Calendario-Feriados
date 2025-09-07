@@ -18,6 +18,6 @@ https://www.abstractapi.com/api/holidays-api  Calendar - Public Holidays
 ---
 
 ## 👩‍💻 Autores (Grupo X)
-- **Ferrario Lara** — usuario: *ferrariolara7@gmail.com*  
+- **Ferrario Lara** — usuario: *ferrariolara7*  
 - **Beretta Jazmín** — usuario: *jazminberetta2610*
 
